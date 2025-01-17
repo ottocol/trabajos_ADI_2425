@@ -87,7 +87,7 @@
 
 
 ## To-do list en Astro
-### drián Ríos Armero, Jaime Morales Vaello, Joan Climent Quiñones e Iván López Sanchís
+### Adrián Ríos Armero, Jaime Morales Vaello, Joan Climent Quiñones e Iván López Sanchís
 
 - [video](https://www.youtube.com/watch?v=I5_0Q0RCQJw)
 - [repositorio](https://github.com/ara130-ua/todo-list-astro)
