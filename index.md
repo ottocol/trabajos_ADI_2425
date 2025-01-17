@@ -1,6 +1,6 @@
 ## Listado de los trabajos
 
-> Por favor revisad que los enlaces de vuestro trabajo son correctos para que puedan acceder vuestr@s compañer@s y que esté puesto todo el material que habéis enviado	
+> Por favor revisad que los enlaces de vuestro trabajo son correctos para que puedan acceder vuestr@s compañer@s y que esté puesto todo el material que habéis enviado (las presentaciones no las he subido si ya hay video)	
 
 
 ## Frameworks Javascript
